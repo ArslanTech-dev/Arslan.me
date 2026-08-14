@@ -62,7 +62,7 @@ Status:        Currently studying & self-learning tech 🚀
 
 </div>
 
-> *Note: A verified official Punjab College logo image wasn't available to embed directly here — replace the placeholder emblem above with the actual Punjab College Hasilpur logo file once you have it.* 🖼️
+
 
 ---
 
@@ -160,7 +160,7 @@ Status:        Currently studying & self-learning tech 🚀
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanchkpt@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923084991001)
 
-> ⚠️ *Tip: since this profile is public, consider whether you want your personal phone number visible to everyone on the internet — you can always swap it for just email if you'd prefer more privacy.*
+
 
 </div>
 
