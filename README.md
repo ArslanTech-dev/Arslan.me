@@ -1,116 +1,181 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Arslan%20Tech&fontSize=60&fontColor=fff&animation=twinkling"/>
+<h1 align="center">
 
-<h1 align="center">Hi 👋, I'm ArslanTech-dev <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
-<h3 align="center">Building reliable, scalable, and delightful software — one line of code at a time.</h3>
-<h4 align="center">17 y/o AI Engineer | ICS Student | Bahawalpur, Pakistan 🇵🇰</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I'm%20ARSLAN%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20AI%20Engineer%20%F0%9F%A4%96%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=55&descAlign=50" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00D9FF&center=true&width=700&lines=AI+Engineer+Dream:+Microsoft;Creator+of+ARSLAN-MD-ULTRA;Clean+Architecture+%2B+Pragmatic+Testing" />
-</p>
+</h1>
 
-<p align="center">
-  <a href="https://your-portfolio.example"><img src="https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:arslanchkpt@gmail.com"><img src="https://img.shields.io/badge/Email-contact-orange?style=for-the-badge&logo=gmail"></a>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://cardivo.vercel.app/api?name=ARSLAN%20TECH&description=AI%20Engineer%20%7C%20ICS%20Student%20%7C%20Building%20ARSLAN-MD-ULTRA&image=https://avatars.githubusercontent.com/ArslanTech-dev&backgroundColor=%23121212&github=ArslanTech-dev&pattern=leaf&colorPattern=%2300D9FF"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Assalam-o-Alaikum!+I'm+Arslan+%F0%9F%91%8B;17+Years+Old+%7C+ICS+Student+%F0%9F%93%9A;Future+AI%2FML+Engineer+%F0%9F%A4%96;Dreaming+Big+%F0%9F%92%AB+Working+Hard+%F0%9F%92%AA;Powered+by+ARSLAN+TECH'S+%F0%9F%94%A5&font=Fira+Code&center=true&width=650&height=50&color=25D366&vCenter=true&size=23&pause=1200"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArslanTech-dev&color=25D366&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ArslanTech-dev?style=for-the-badge&color=25D366&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-brightgreen?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🚀 About Me
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv067ihh/giphy.gif">
+## 🧑‍💻 About Me
 
-I design and ship production-ready software with a focus on clean architecture, pragmatic testing, and developer experience. I enjoy turning ambiguous problems into maintainable systems that scale.
+```yaml
+Name:          Arslan
+Age:           17 years old
+Country:       🇵🇰 Pakistan
+District:      Bahawalpur, Punjab
+Education:     Punjab College, Hasilpur — 1st Year ICS 📚
+Future Plan:   ML / AI Engineering 🎓
+Dream:         Become a professional AI Engineer 🤖
+Dream Company: Microsoft 🪟 & Google 🌐
+Hobby:         🏏 Cricket
+AI Experience: Using AI tools to assist & speed up coding 💻⚡
+Status:        Currently studying & self-learning tech 🚀
+```
 
-- 🔭 I’m currently working on: **ARSLAN-MD-ULTRA** - 220+ Command AI WhatsApp Bot
-- 🌱 Currently learning: **Advanced Distributed Systems and MLOps**
-- 👯 I’m open to collaborating on: **Open-source tools and developer tooling**
-- 🤖 AI Experienced: I build with AI, not just use it
-- 💬 Ask me about: **System design, APIs, performance tuning, and automation**
-- 🎯 Goal: **AI Engineer at Microsoft**
-- 📫 How to reach me: **arslanchkpt@gmail.com**
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</div>
 
-<br clear="right"/>
+---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## 🎓 Education
 
-## 🛠️ What I Do
-- Architect and build backend systems, APIs, and microservices
-- Ship frontend interfaces that prioritize usability and performance
-- Automate CI/CD pipelines and infrastructure as code
-- Mentor teams on best engineering practices and testing
+<div align="center">
 
-## 🧰 Tech & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,go,react,nextjs,tailwind,express,fastapi,mongodb,postgresql,redis,docker,kubernetes,terraform,git,github&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Government_Emblem_of_Pakistan.svg/240px-Government_Emblem_of_Pakistan.svg.png" width="90"/>
+</td>
+<td align="left">
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+**🏫 Punjab College, Hasilpur**
+📖 Intermediate in Computer Science (ICS) — 1st Year
+📍 Hasilpur, Bahawalpur, Punjab, Pakistan
+🎯 Preparing to pursue **ML / AI Engineering** after ICS
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> *Note: A verified official Punjab College logo image wasn't available to embed directly here — replace the placeholder emblem above with the actual Punjab College Hasilpur logo file once you have it.* 🖼️
+
+---
+
+## 🚀 My Journey & Goals
+
+<div align="center">
+
+```
+🎯 GOAL TRACKER
+[■■■■■■□□□□□□□□□□□□□□] 30% → ICS Completion
+[■■□□□□□□□□□□□□□□□□□□] 10% → AI/ML Fundamentals
+[■□□□□□□□□□□□□□□□□□□□]  5% → Dream Job at Microsoft/Google
+```
+
+</div>
+
+- 📚 Currently studying **ICS (1st Year)** at Punjab College, Hasilpur
+- 🧠 Planning to pursue **Machine Learning & AI Engineering** after ICS
+- 🎯 Long-term dream: becoming a professional **AI Engineer**
+- 🏢 Dream companies: **Microsoft** 🪟 and **Google** 🌐
+- 💻 Already using **AI tools to assist with coding** — learning by building real projects
+- 🔥 Motivated, consistent, and building step-by-step every day
+
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI%20Assisted%20Coding-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380"/>
+</div>
+
+---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArslanTech-dev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArslanTech-dev&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArslanTech-dev&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanTech-dev&layout=compact&theme=radical&hide_border=true"/>
-</p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<div align="center">
 
-## 🏆 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api?username=ArslanTech-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArslanTech-dev&theme=radical&hide_border=true" width="48%"/>
 
-### 1. 🤖 [ARSLAN-MD-ULTRA](https://github.com/ArslanTech-dev/ARSLAN-MD-Ultra)
-<p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanTech-dev&layout=compact&theme=radical&hide_border=true" width="55%"/>
 
-`Node.js` `Baileys` `GPT-4` `220+ Commands`
-> **AI-powered WhatsApp Bot made in Pakistan 🇵🇰**  
-> High-performance API with AI, Download, Islamic, Group Management  
-> Key tech: `Node.js`, `PostgreSQL`, `Docker`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArslanTech-dev&theme=react-dark&hide_border=true" width="90%"/>
 
-<p align="left">
-<a href="https://github.com/ArslanTech-dev/ARSLAN-MD-Ultra"><img height="40" src="https://img.shields.io/badge/Visit%20Repo-24292e?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/ArslanTech-dev/ARSLAN-MD-Ultra/fork"><img height="40" src="https://img.shields.io/badge/Fork%20Now-00D9FF?style=for-the-badge&logo=github"></a>
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
 
-### 2. **AI SaaS Dashboard** 
-`React` `Next.js` `OpenAI` `Stripe`
-> Developer tool that simplifies AI content generation.
-
-### 3. **E-Commerce Microservices API**
-`Express` `MongoDB` `Docker` `Kubernetes`
-> Scalable backend with Auth, Payment, Redis Cache.
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 👨‍💻 Open Source & Community
-- Maintainer / contributor to: **ARSLAN-MD-ULTRA**
-- I write about engineering and patterns on my blog: https://your-blog.example
-
-## 🎯 Want to Collaborate?
-I’m open to mentoring, consulting, and new opportunities. If you’d like to work together, send a message with a short summary of the project and your timeline.
-
-<p align="center">
-<a href="mailto:arslanchkpt@gmail.com"><img height="40" src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-## ☕ Fun Facts
-- ☕ Coffee-first developer
-- 🎧 Often listening to lo-fi music while coding
-- 🧩 I solve logic puzzles for fun
-- ❤️ "Code is logic, but building is art"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
 
 ---
-⭐️ From Bahawalpur with Code, AI and Dreams ✨
+
+## 🏏 Beyond The Code
+
+<div align="center">
+
+| 🎯 Interest | 📋 Details |
+|---|---|
+| 🏏 **Cricket** | Passionate about cricket — playing & following the sport |
+| 🤖 **AI Enthusiast** | Actively using AI tools to learn and speed up coding |
+| 📖 **Student Life** | ICS student building a strong foundation for AI/ML |
+| ❤️ **Heart** | Believes in working hard for both dreams and people who matter 😊 |
+
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="320"/>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+📧 **Email:** [arslanchkpt@gmail.com](mailto:arslanchkpt@gmail.com)
+📱 **WhatsApp/Number:** +92 308 4991001
+🔗 **GitHub:** [@ArslanTech-dev](https://github.com/ArslanTech-dev)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanchkpt@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923084991001)
+
+> ⚠️ *Tip: since this profile is public, consider whether you want your personal phone number visible to everyone on the internet — you can always swap it for just email if you'd prefer more privacy.*
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks For Visiting My Profile!
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="160"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by+%F0%9F%92%9A;Let's+build+something+amazing+together+%F0%9F%9A%80;See+you+in+the+next+commit!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&font=Fira+Code&center=true&width=550&height=40&color=25D366&vCenter=true&size=20&pause=1000"/>
+
+### 🔥 Powered by **ARSLAN TECH'S** 🔥
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+</div>
